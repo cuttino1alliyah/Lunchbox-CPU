@@ -35,8 +35,11 @@ from my previous class I took in college, so you will need to start from scratch
 ------------------------------------------------------------------------------
 
 *WARNING*
+
 *PAY ATTENTION TO WHICH VERSION OF PYTHON YOU ARE USING IN ORDER TO INSTALL ALL OF THESE, IT MATTERS A LOT*
+
 *PAY ATTENTION TO WHERE YOU INSTALL THESE PACKAGES*
+
 *YOU CAN RUN THE CODE WITHIN YOUR TERMINAL OR PYTHON IDLE*
 
 OpenCV: https://www.youtube.com/watch?v=ylnjXbcNLJU&t=42s
@@ -50,6 +53,7 @@ Facial Recognition: https://www.youtube.com/watch?v=EQZ79QkRutY&t=850s
 
 
 *DO'S & DONTS*
+
 Do take your time it is not a race, when you rush you will have errors. No one likes errors and can be frustrating
 Do watch & follow every step of these videos! One small mishap and you can have an error.
 Do have fun! After completing everything you will feel so accomplished!
