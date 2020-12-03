@@ -34,7 +34,7 @@ from my previous class I took in college, so you will need to start from scratch
 #### Installing OpenCV, Dlib, & Facial Recognition using PYTHON
 ------------------------------------------------------------------------------
 
-*WARNING*
+##### *WARNING*
 
 *PAY ATTENTION TO WHICH VERSION OF PYTHON YOU ARE USING IN ORDER TO INSTALL ALL OF THESE, IT MATTERS A LOT*
 
