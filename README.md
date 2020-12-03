@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------
 
-###Description
+## Description
 ----------------------------------
 
 This project runs face recognition on live video from a picam using Raspberry Pi B+ and OpenCV. It does all of this while in a Avenegers tin kids lunchbox. 
@@ -31,7 +31,7 @@ on how you want it to be displayed. Once you decided on your final look of the l
 use them. Then i hooked up all the necessary cords to my Raspberry Pi B+ and turned it on.(My Raspberry Pi B+ was already setup
 from my previous class I took in college, so you will need to start from scratch and look at youtube videos)
 
-###Installing OpenCV, Dlib, & Facial Recognition using PYTHON
+#### Installing OpenCV, Dlib, & Facial Recognition using PYTHON
 ------------------------------------------------------------------------------
 
 *WARNING*
