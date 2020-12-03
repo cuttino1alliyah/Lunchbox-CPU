@@ -1,5 +1,6 @@
 # install open cv2 https://github.com/Keylem/Easy-OpenCV4-for-RPI
-
+#NOT MY ORIGINAL CODE 
+#AUTHOR : TeCoEd on youtube
 import face_recognition
 import cv2
 import numpy as np
@@ -16,13 +17,13 @@ import numpy as np
 # Get a reference to webcam #0 (the default one)
 video_capture = cv2.VideoCapture(0)
 
-# Load a sample picture and learn how to recognize it.
-dan_image = face_recognition.load_image_file("foo.jpg")
-dan_face_encoding = face_recognition.face_encodings(dan_image)[0]
+# Loading a picture of me.
+cece_image = face_recognition.load_image_file("cece.jpg")
+cece_face_encoding = face_recognition.face_encodings(cece_image)[0]
 
-# Load a second sample picture and learn how to recognize it.
-spike_image = face_recognition.load_image_file("Spike.jpg")
-spike_face_encoding = face_recognition.face_encodings(spike_image)[0]
+# Loading a picture of my bestfriend.
+dale_image = face_recognition.load_image_file("dale.jpg")
+dale_face_encoding = face_recognition.face_encodings(dale_image)[0]
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
@@ -30,8 +31,8 @@ known_face_encodings = [
     spike_face_encoding
 ]
 known_face_names = [
-    "Dan Aldred",
-    "Spike"
+    "Cece",
+    "Dale(THE GRADUATE)"
 ]
 
 # Initialize some variables
