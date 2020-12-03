@@ -49,6 +49,8 @@ Dlib: https://www.youtube.com/watch?v=AWhDDl-7Iis&t=3s
 
 Facial Recognition: https://www.youtube.com/watch?v=EQZ79QkRutY&t=850s
 
+The Code I used to run is : "face_recognition.py"
+
 -----------------------------------------------------------------------------
 
 
