@@ -54,11 +54,13 @@ Facial Recognition: https://www.youtube.com/watch?v=EQZ79QkRutY&t=850s
 
 *DO'S & DONTS*
 
-Do take your time it is not a race, when you rush you will have errors. No one likes errors and can be frustrating
-Do watch & follow every step of these videos! One small mishap and you can have an error.
-Do have fun! After completing everything you will feel so accomplished!
+-Do take your time it is not a race, when you rush you will have errors. No one likes errors and can be frustrating
 
-Don't pay for anything, no subscriptions or tutors. I found out that there are so many different people who are charging for
+-Do watch & follow every step of these videos! One small mishap and you can have an error.
+
+-Do have fun! After completing everything you will feel so accomplished!
+
+-Don't pay for anything, no subscriptions or tutors. I found out that there are so many different people who are charging for
 the steps needed to take while there are the same exact steps for free on youtube and other sites. All you need to do is to be able
 to know exactly what you need help with and Google will find it.
 
