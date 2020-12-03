@@ -54,7 +54,7 @@ The Code I used to run is : "face_recognition.py"
 -----------------------------------------------------------------------------
 
 
-*DO'S & DONTS*
+##### *DO'S & DONTS*
 
 -Do take your time it is not a race, when you rush you will have errors. No one likes errors and can be frustrating
 
